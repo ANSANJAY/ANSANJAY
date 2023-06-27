@@ -1,5 +1,5 @@
 # Namaste 🙏
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://anamikadev.com/wp-content/uploads/2023/06/Pink-and-Blue-Colorful-Girl-Illustration-Gaming-Logo-4.png)")
+(img align="right" alt="Coding" width="400" src="[(https://anamikadev.com/wp-content/uploads/2023/06/Pink-and-Blue-Colorful-Girl-Illustration-Gaming-Logo-4.png)]
 [![MasterHead](([https://anamikadev.com/wp-content/uploads/2023/06/Pink-Pixel-Gaming-Channel-Banner-4.png])](https://anamikadev.com)
 
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
