@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Linux Kernel Internals,Linux Network Programming**
 
-- 👨‍💻 All of my projects are available at [https://anamikadev.com/](https://anamikadev.com/)
+- 👨‍💻 All of my projects are available at [my website](https://anamikadev.com/projects)
 
-- 📝 I regularly write articles on [https://anamikadev.com/categories/](https://anamikadev.com/blogs/)
+- 📝 I regularly write articles on [my blog](https://anamikadev.com/blogs/)
 
 - 💬 Ask me about
 
@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **anamika.sanjay16@gmail.com**
 
-- 📄 Know about my experiences [https://anamikadev.com/](https://anamikadev.com/)
+- 📄 Know about my experiences [here](https://anamikadev.com/about-me)
 
 ### Latest Blogs posts
 
