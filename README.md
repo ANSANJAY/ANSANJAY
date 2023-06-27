@@ -35,7 +35,7 @@
 
 -[Motivation for new ring buffer implementation](https://anamikadev.com/motivation-for-new-ring-buffer-implementation/)
 
--[Exploring eBPF Probes: Observing TCP Connections with Kernel-Level Instrumentation] (https://anamikadev.com/exploring-ebpf-probes-observing-tcp-connections-with-kernel-level-instrumentation/)
+-[Exploring eBPF Probes: Observing TCP Connections with Kernel-Level Instrumentation](https://anamikadev.com/exploring-ebpf-probes-observing-tcp-connections-with-kernel-level-instrumentation/)
 
 
 <h3 align="left">Connect with me:</h3>
