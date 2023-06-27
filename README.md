@@ -22,13 +22,20 @@
 ### Latest Blogs posts
 
 -[Socket Programming Essentials in C](https://anamikadev.com/socket-programming-essentials-in-c/)
+
 -[kretprobe](https://anamikadev.com/kretprobe-connect/)
-[Kprobe](https://anamikadev.com/kprobe-connect/)
-[Tools and libraries](https://anamikadev.com/tools-and-libraries/)
-[eBPF Program] (https://anamikadev.com/ebpf-program/)
-[APIs of BPF Ring Buffer] (https://anamikadev.com/apis-of-bpf-ring-buffer/)
-[Motivation for new ring buffer implementation](https://anamikadev.com/motivation-for-new-ring-buffer-implementation/)
-[Exploring eBPF Probes: Observing TCP Connections with Kernel-Level Instrumentation] (https://anamikadev.com/exploring-ebpf-probes-observing-tcp-connections-with-kernel-level-instrumentation/)
+
+-[Kprobe](https://anamikadev.com/kprobe-connect/)
+
+-[Tools and libraries](https://anamikadev.com/tools-and-libraries/)
+
+-[eBPF Program](https://anamikadev.com/ebpf-program/)
+
+-[APIs of BPF Ring Buffer](https://anamikadev.com/apis-of-bpf-ring-buffer/)
+
+-[Motivation for new ring buffer implementation](https://anamikadev.com/motivation-for-new-ring-buffer-implementation/)
+
+-[Exploring eBPF Probes: Observing TCP Connections with Kernel-Level Instrumentation] (https://anamikadev.com/exploring-ebpf-probes-observing-tcp-connections-with-kernel-level-instrumentation/)
 
 
 <h3 align="left">Connect with me:</h3>
