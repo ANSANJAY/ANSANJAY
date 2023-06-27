@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://anamikadev.com/wp-content/uploads/2023/06/Pink-and-Blue-Colorful-Girl-Illustration-Gaming-Logo-4.png" alt="Coding" width="100">
 </p>
-[![MasterHead](([https://anamikadev.com/wp-content/uploads/2023/06/Pink-Pixel-Gaming-Channel-Banner-4.png])](https://anamikadev.com)
 
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
 <h3 align="center">A passionate Linux Kernel Developer from United States</h3>
@@ -61,5 +60,5 @@
 
 
 
-[![MasterHead](https://anamikadev.com/wp-content/uploads/2023/06/Pink-Pixel-Gaming-Channel-Banner-4.png)](https://anamikadev.com)
+
 
