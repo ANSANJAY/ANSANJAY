@@ -13,6 +13,7 @@
 - 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian) with [IntelOps](https://github.com/AnamikaSanjay)
 
 - 🌱 I’m currently learning
+    - [eBPF](https://anamikadev.com/ebpf-learning-path/)
     - Linux Kernel Internals
     - [Linux Network Programming](https://anamikadev.com/network-learning-path/)
     - [Linux System Programming](https://anamikadev.com/system-learning-path/)
@@ -23,7 +24,8 @@
 - 📝 I regularly write articles on [my blog](https://anamikadev.com/blogs/)
 
 - 💬 Ask me about
-
+  
+    -   [eBPF](https://anamikadev.com/ebpf-blog-library-insights-tutorials-and-discoveries/)
     -   [C](https://anamikadev.com/c-learning-path/)
     -   [Scripting](https://anamikadev.com/bash-learning-path/)
     -   Linux kernel internals
