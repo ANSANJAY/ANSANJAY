@@ -10,9 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansanjay&label=Profile%20views&color=0e75b6&style=flat" alt="ansanjay" /> </p>
 
 
-- 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian)
-
-- Again [mine](https://github.com/AnamikaSanjay)
+- 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian) with [IntelOps](https://github.com/AnamikaSanjay)
 
 - 🌱 I’m currently learning
     - Linux Kernel Internals
