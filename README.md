@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste 🙏
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
 <h3 align="center">A passionate Linux Kernel Developer from United States</h3>
 
