@@ -12,6 +12,8 @@
 
 - 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian)
 
+- Also [me](https://github.com/AnamikaSanjay)
+
 - 🌱 I’m currently learning
     - Linux Kernel Internals
     - [Linux Network Programming](https://anamikadev.com/network-learning-path/)
