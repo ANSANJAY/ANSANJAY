@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian)
 
-- Also [me](https://github.com/AnamikaSanjay)
+- Again [mine](https://github.com/AnamikaSanjay)
 
 - 🌱 I’m currently learning
     - Linux Kernel Internals
