@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://anamikadev.com/categories/](https://anamikadev.com/categories/)
 
-- 💬 Ask me about C[https://anamikadev.com/c-learning-path/], Linux kernel internals[],Linux Network Programming[https://anamikadev.com/network-programming-blog],Linux System programming[https://anamikadev.com/system-programming-blog]
+- 💬 Ask me about [C](https://anamikadev.com/c-learning-path/), Linux kernel internals,[Linux Network Programming](https://anamikadev.com/network-programming-blog),[Linux System programming](https://anamikadev.com/system-programming-blog)
 
 - 📫 How to reach me **anamika.sanjay16@gmail.com**
 
