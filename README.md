@@ -12,7 +12,11 @@
 
 - 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian)
 
-- 🌱 I’m currently learning **Linux Kernel Internals,Linux Network Programming**
+- 🌱 I’m currently learning
+    - Linux Kernel Internals
+    - [Linux Network Programming](https://anamikadev.com/network-learning-path/),
+    - [Linux System Programming](https://anamikadev.com/system-learning-path/)
+      
 
 - 👨‍💻 All of my projects are available at [my website](https://anamikadev.com/projects)
 
