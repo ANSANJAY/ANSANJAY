@@ -21,8 +21,8 @@
 
 ### Latest Blogs posts
 
-[Socket Programming Essentials in C](https://anamikadev.com/socket-programming-essentials-in-c/)
-[kretprobe](https://anamikadev.com/kretprobe-connect/)
+-[Socket Programming Essentials in C](https://anamikadev.com/socket-programming-essentials-in-c/)
+-[kretprobe](https://anamikadev.com/kretprobe-connect/)
 [Kprobe](https://anamikadev.com/kprobe-connect/)
 [Tools and libraries](https://anamikadev.com/tools-and-libraries/)
 [eBPF Program] (https://anamikadev.com/ebpf-program/)
