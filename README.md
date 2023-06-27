@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
-<h3 align="center">A passionate Linux Kernel Developer from United States</h3>
+<h3 align="center">A passionate Linux Kernel Developer from INDIA working in the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansanjay&label=Profile%20views&color=0e75b6&style=flat" alt="ansanjay" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning
     - Linux Kernel Internals
-    - [Linux Network Programming](https://anamikadev.com/network-learning-path/),
+    - [Linux Network Programming](https://anamikadev.com/network-learning-path/)
     - [Linux System Programming](https://anamikadev.com/system-learning-path/)
       
 
