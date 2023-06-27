@@ -29,7 +29,7 @@
 <a href="https://linkedin.com/in/anamika-sanjay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anamika-sanjay/" height="30" width="40" /></a>
 <a href="https://instagram.com/anamika__sanjay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/anamika__sanjay/" height="30" width="40" /></a>
 <a href="https://medium.com/@anamika.sanjay16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anamika.sanjay16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anamikasanjay6749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anamikasanjay6749" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCOjhpEJay8rnpdhW_aOaYiQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anamikasanjay6749" height="30" width="40" /></a>
 <a href="/https://anamikadev.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anamikadev.com/feed/" height="30" width="40" /></a>
 </p>
 
