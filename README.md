@@ -69,7 +69,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansanjay&show_icons=true&locale=en&layout=compact" alt="ansanjay" /></p>
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ansanjay&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
