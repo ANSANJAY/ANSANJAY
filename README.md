@@ -68,7 +68,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansanjay&show_icons=true&locale=en&layout=compact" alt="ansanjay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansanjay&" alt="ansanjay" /></p>
 
 
 
