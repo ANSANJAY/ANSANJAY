@@ -5,12 +5,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
-<h3 align="center">A passionate Linux Kernel Developer from INDIA working in the United States</h3>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Linux%20Kernel%20Development;Learning%20Linux%20Network%20Subsystem;Learning%20Linux%20System%20Programming;Working%20on%20eBPF%20Development&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Linux%20Kernel%20Development;Learning%20Linux%20Network%20Subsystem;Learning%20Linux%20System%20Programming;Working%20on%20eBPF%20Development;Forever%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
