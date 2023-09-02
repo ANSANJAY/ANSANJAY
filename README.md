@@ -1,4 +1,4 @@
-# Namaste 🙏
+<h1 align="center">Namaste 🙏</h1>
 
 <p align="center">
   <img src="https://anamikadev.com/wp-content/uploads/2023/06/Pink-and-Blue-Colorful-Girl-Illustration-Gaming-Logo-4.png" alt="Coding" width="100">
