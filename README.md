@@ -74,7 +74,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansanjay&show_icons=true&locale=en&layout=compact" alt="ansanjay" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ansanjay)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ANSANJAY)](https://git.io/streak-stats)
 
 
 
