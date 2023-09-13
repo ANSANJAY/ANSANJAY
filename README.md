@@ -20,8 +20,7 @@
 
 - 🌱 I’m currently learning
     - [eBPF](https://anamikadev.com/ebpf-learning-path/)
-    - Linux Kernel Internals
-    - [Linux Network Programming](https://anamikadev.com/network-learning-path/)
+    - [Linux Kernel Internals](https://anamikadev.com/home/learning-path/kernel-learning-path/)
     - [Linux System Programming](https://anamikadev.com/system-learning-path/)
       
 
@@ -32,11 +31,8 @@
 - 💬 Ask me about
   
     -   [eBPF](https://anamikadev.com/ebpf-blog-library-insights-tutorials-and-discoveries/)
-    -   [C](https://anamikadev.com/c-learning-path/)
-    -   [Scripting](https://anamikadev.com/bash-learning-path/)
-    -   Linux kernel internals
-    -   [Linux Network Programming](https://anamikadev.com/network-programming-blog)
-    -   [Linux System programming](https://anamikadev.com/system-programming-blog)
+    -   [Linux kernel internals](https://anamikadev.com/home/blogs/kernel/)
+    -   [Linux System programming](https://anamikadev.com/home/blogs/system/)
 
 - 📫 How to reach me **anamika.sanjay16@gmail.com**
 
