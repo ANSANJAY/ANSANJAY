@@ -59,7 +59,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ANSANJAY)](https://git.io/streak-stats)
 
 
-# Blog posts
+# Latest Blog posts : Just a glimpse, for more vist my [blog](https://anamikadev.com/blogs/)
 <!-- BLOG-POST-LIST:START -->
 - [Understanding the Interaction: sysfs, udev, and Character Device Drivers](https://anamikadev.com/understanding-the-interaction-sysfs-udev-and-character-device-drivers/)
 - [Unlocking the Magic of Linux Kernel Modules: Dive Deep with Dynamic Major Numbers! 🚀🐧](https://anamikadev.com/unlocking-the-magic-of-linux-kernel-modules-dive-deep-with-dynamic-major-numbers-%f0%9f%9a%80%f0%9f%90%a7/)
