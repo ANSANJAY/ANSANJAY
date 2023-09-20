@@ -61,10 +61,10 @@
 
 # Latest Blog posts : Just a glimpse, for more vist my [blog](https://anamikadev.com/blogs/)
 <!-- BLOG-POST-LIST:START -->
+- [Linux Kernel Module Stacking and modprobe: A Dive into Kernel Modularity and Dependencies](https://anamikadev.com/linux-kernel-module-stacking-and-modprobe-a-dive-into-kernel-modularity-and-dependencies/)
+- [Decoding the Linux Kernel: Symbols, Tables, and Puzzles!](https://anamikadev.com/decoding-the-linux-kernel-symbols-tables-and-puzzles/)
 - [Understanding the Interaction: sysfs, udev, and Character Device Drivers](https://anamikadev.com/understanding-the-interaction-sysfs-udev-and-character-device-drivers/)
 - [Unlocking the Magic of Linux Kernel Modules: Dive Deep with Dynamic Major Numbers! 🚀🐧](https://anamikadev.com/unlocking-the-magic-of-linux-kernel-modules-dive-deep-with-dynamic-major-numbers-%f0%9f%9a%80%f0%9f%90%a7/)
 - [Dive into Dynamic Allocation in Linux Device Drivers](https://anamikadev.com/dive-into-dynamic-allocation-in-linux-device-drivers/)
-- [🚀 Decoding the Magic of MKDEV in the Linux Kernel 🐧](https://anamikadev.com/%f0%9f%9a%80-decoding-the-magic-of-mkdev-in-the-linux-kernel-%f0%9f%90%a7/)
-- [Decoding Device Major and Minor Numbers: The Library Card Catalog Analogy](https://anamikadev.com/decoding-device-major-and-minor-numbers-the-library-card-catalog-analogy/)
 <!-- BLOG-POST-LIST:END -->
 
