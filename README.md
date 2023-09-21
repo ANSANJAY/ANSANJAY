@@ -57,6 +57,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansanjay&show_icons=true&locale=en&layout=compact" alt="ansanjay" /></p>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ANSANJAY)](https://git.io/streak-stats)
 
 
 # Latest Blog posts : Just a glimpse, for more vist my [blog](https://anamikadev.com/blogs/)
