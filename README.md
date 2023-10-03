@@ -61,10 +61,10 @@
 
 # Latest Blog posts : Just a glimpse, for more vist my [blog](https://anamikadev.com/blogs/)
 <!-- BLOG-POST-LIST:START -->
+- [DEMYSTIFYING CONTAINER PROFILING WITH EBPF: A BEGINNER’S GUIDE](https://anamikadev.com/demystifying-container-profiling-with-ebpf-a-beginners-guide/)
 - [🚀 DEMYSTIFYING KERNEL PANIC: A DEEP DIVE INTO A CRITICAL SYSTEM STATE 🚀](https://anamikadev.com/%f0%9f%9a%80-demystifying-kernel-panic-a-deep-dive-into-a-critical-system-state-%f0%9f%9a%80/)
 - [Diving Deep into dump_stack&lpar;&rpar; in Linux Kernel Development! 🧠](https://anamikadev.com/diving-deep-into-dump_stack-in-linux-kernel-development-%f0%9f%a7%a0/)
 - [Unraveling the Essence of KBUILD_MODNAME in Kernel Development 🌐👩‍💻](https://anamikadev.com/unraveling-the-essence-of-kbuild_modname-in-kernel-development-%f0%9f%8c%90%f0%9f%91%a9%f0%9f%92%bb/)
 - [Kernel Printk: A Journey Through Linux Logging! 🐧](https://anamikadev.com/kernel-printk-a-journey-through-linux-logging-%f0%9f%90%a7/)
-- [Linux Kernel Module Stacking and modprobe: A Dive into Kernel Modularity and Dependencies](https://anamikadev.com/linux-kernel-module-stacking-and-modprobe-a-dive-into-kernel-modularity-and-dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
