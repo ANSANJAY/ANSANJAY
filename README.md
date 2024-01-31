@@ -17,6 +17,7 @@
 
 
 - 🔭 I’m currently working on [Kube Tarian](https://github.com/kube-tarian) with [IntelOps](https://github.com/AnamikaSanjay)
+- Architect at American Express.
 
 - 🌱 I’m currently learning
     - [eBPF](https://anamikadev.com/ebpf-learning-path/)
