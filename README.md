@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Technical+Product+Manager+and+Tech+Lead;Building+Developer+Tooling+and+Platform+Solutions;Driving+Security+and+Observability+Initiatives;Creating+Automation+and+Performance+Enhancements;Forever+Learning+and+Sharing+Knowledge" alt="Typing SVG" />
 </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansanjay&label=Profile%20views&color=0e75b6&style=flat" alt="ansanjay" /> </p>
 
 ---
