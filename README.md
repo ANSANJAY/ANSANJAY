@@ -88,9 +88,9 @@ C | Go | Bash | Kubernetes | Docker | Linux | Fedora | Git | VS Code
 # 📝 **Latest Blog Posts:**  
 Just a glimpse, for more visit my [blog](https://anamikadev.com/blogs/)  
 <!-- BLOG-POST-LIST:START -->
+- [Load Balancer Types](https://anamikadev.com/load-balancer-types/)
+- [Uses of Load Balancing](https://anamikadev.com/uses-of-load-balancing/)
 - [Load Balancing Algorithms](https://anamikadev.com/load-balancing-algorithms/)
 - [Introduction to Load Balancing](https://anamikadev.com/introduction-to-load-balancing/)
 - [DEMYSTIFYING CONTAINER PROFILING WITH EBPF: A BEGINNER’S GUIDE](https://anamikadev.com/demystifying-container-profiling-with-ebpf-a-beginners-guide/)
-- [🚀 DEMYSTIFYING KERNEL PANIC: A DEEP DIVE INTO A CRITICAL SYSTEM STATE 🚀](https://anamikadev.com/%f0%9f%9a%80-demystifying-kernel-panic-a-deep-dive-into-a-critical-system-state-%f0%9f%9a%80/)
-- [Diving Deep into dump_stack&lpar;&rpar; in Linux Kernel Development! 🧠](https://anamikadev.com/diving-deep-into-dump_stack-in-linux-kernel-development-%f0%9f%a7%a0/)
 <!-- BLOG-POST-LIST:END -->
