@@ -88,9 +88,9 @@ C | Go | Bash | Kubernetes | Docker | Linux | Fedora | Git | VS Code
 # 📝 **Latest Blog Posts:**  
 Just a glimpse, for more visit my [blog](https://anamikadev.com/blogs/)  
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to API Gateway](https://anamikadev.com/introduction-to-api-gateway/)
+- [Challenges of Load Balancers](https://anamikadev.com/challenges-of-load-balancers/)
+- [Stateless vs. Stateful Load Balancing](https://anamikadev.com/stateless-vs-stateful-load-balancing/)
 - [Load Balancer Types](https://anamikadev.com/load-balancer-types/)
 - [Uses of Load Balancing](https://anamikadev.com/uses-of-load-balancing/)
-- [Load Balancing Algorithms](https://anamikadev.com/load-balancing-algorithms/)
-- [Introduction to Load Balancing](https://anamikadev.com/introduction-to-load-balancing/)
-- [DEMYSTIFYING CONTAINER PROFILING WITH EBPF: A BEGINNER’S GUIDE](https://anamikadev.com/demystifying-container-profiling-with-ebpf-a-beginners-guide/)
 <!-- BLOG-POST-LIST:END -->
