@@ -17,37 +17,52 @@
 ---
 
 ### 🌟 **About Me**  
-I am a dedicated **Technical Product Manager and Tech Lead** with a strong foundation in **systems programming, developer tooling, and infrastructure security**. I specialize in designing and implementing **platform solutions** that enhance **observability, automation, and performance** in large-scale environments. My journey includes building **custom tooling**, driving **security and compliance initiatives**, and leading cross-functional teams to deliver impactful results. I am passionate about **bridging engineering and product strategy** to create scalable and reliable solutions.  
+I am an experienced **Site Reliability Engineer (SRE)** and **DevOps Engineer**, with a strong background in **observability tooling**, **platform reliability**, and **cloud-native infrastructure development**.  
+I specialize in building **low-overhead monitoring solutions**, **developer tooling**, and **automation frameworks** that improve **system uptime**, **performance visibility**, and **operational efficiency**.  
+
+My experience includes:
+- Leading **enterprise-scale observability initiatives** using **eBPF**, **Go**, **Shell**, and **Kubernetes**.  
+- Building **automation tools** for **SonarQube integration**, **code quality reporting**, and **security compliance** across hundreds of repositories.  
+- Designing **low-level system monitoring** and **distributed tracing solutions** for cloud and hybrid environments.  
+
+I am passionate about **bridging development, infrastructure, and operations** to build **resilient**, **scalable**, and **observable** platforms.
 
 ---
 
-### 🚀 **Current Projects**  
-- 🔭 Working on **developer tooling** to enhance **code quality, performance monitoring, and security compliance**.  
-- 🌱 Exploring advanced **eBPF applications** for **kernel-level monitoring** and **system performance optimization**.  
-- 🛠️ Building **automation scripts** and **data extraction tools** in **Go and Shell** to support observability and reporting.  
+### 🚀 **Current Focus Areas**  
+- 🔭 Developing **observability tooling** for **metrics, distributed tracing, and runtime profiling** using **eBPF** and **Go**.  
+- 🌱 Enhancing **developer experience** with **automation scripts**, **CI/CD pipeline integrations**, and **GitHub tooling**.  
+- 🛠️ Exploring **system performance optimization** and **kernel-level monitoring** for production workloads.
 
 ---
 
 ### 💡 **Key Skills & Expertise**  
-- **Technical Product Management:** Roadmapping, backlog management, cross-functional collaboration  
-- **Developer Tooling & Platform Solutions:** Internal tooling, DevEx enhancement, infrastructure optimization  
-- **Security & Observability:** eBPF, kernel tracing, runtime monitoring, system performance profiling  
-- **Automation & Integration:** Custom scripts for data extraction, CI/CD pipeline integration  
-- **Stakeholder Management:** Aligning product vision with engineering execution and business outcomes  
-- **Documentation & Technical Writing:** Creating guides, SOPs, onboarding materials, and technical blogs  
-- **Knowledge Sharing:** Writing articles on observability, developer experience, and system performance  
+- **Site Reliability Engineering (SRE):** Incident response, system resilience, SLO management  
+- **DevOps & Automation:** Kubernetes, Terraform, Docker, CI/CD (Jenkins, GitHub Actions, GitLab CI)  
+- **Observability Engineering:** eBPF tracing, distributed tracing, metrics instrumentation, system profiling  
+- **Cloud-Native Infrastructure:** Kubernetes, GCP, RHEL, AIX, hybrid architectures  
+- **Scripting & Development:** Go, Shell scripting, GitHub CLI-based automation  
+- **Security & Compliance:** IAM, RBAC, vulnerability assessments, SonarQube integration  
+- **Cross-Functional Leadership:** Collaboration across DevOps, SRE, infrastructure, and product teams  
+- **Technical Writing:** Internal documentation, onboarding guides, blogs on observability and performance
 
 ---
 
-### 🌱 **Currently Learning**  
-- **Advanced Kubernetes Observability** with eBPF  
-- **System Performance Optimization** using kernel tracing and profiling  
-- **Automating Developer Workflows** for enhanced productivity  
+### 🌱 **Currently Deepening Expertise In**  
+- **Advanced Kubernetes Observability** with eBPF and distributed tracing  
+- **Cloud infrastructure automation** using Terraform and GitHub workflows  
+- **Performance optimization** for Linux systems through kernel instrumentation and profiling  
+- **Developer workflow automation** to streamline DevOps and SRE processes
 
 ---
 
 ### 📝 **Latest Blogs & Projects**  
-I regularly write about **technical product management, observability, and system tooling**.  
+I regularly share insights about **observability engineering**, **SRE best practices**, and **DevOps tooling**.  
+Stay tuned for technical deep dives on **eBPF applications**, **performance tuning**, and **automation strategies**!
+
+
+### 📝 **Latest Blogs & Projects**  
+I regularly write about **technical product, observability, and system tooling**.  
 Check out some of my recent posts:  
 - [DEMYSTIFYING CONTAINER PROFILING WITH EBPF: A BEGINNER’S GUIDE](https://anamikadev.com/demystifying-container-profiling-with-ebpf-a-beginners-guide/)  
 - [🚀 DEMYSTIFYING KERNEL PANIC: A DEEP DIVE INTO A CRITICAL SYSTEM STATE 🚀](https://anamikadev.com/%f0%9f%9a%80-demystifying-kernel-panic-a-deep-dive-into-a-critical-system-state-%f0%9f%9a%80/)  
