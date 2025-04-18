@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm ANAMIKA SANJAY</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Technical+Product+Manager+and+Tech+Lead;Building+Developer+Tooling+and+Platform+Solutions;Driving+Security+and+Observability+Initiatives;Creating+Automation+and+Performance+Enhancements;Forever+Learning+and+Sharing+Knowledge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Technical+Manager+and+Tech+Lead;Building+Developer+Tooling+and+Platform+Solutions;Driving+Security+and+Observability+Initiatives;Creating+Automation+and+Performance+Enhancements;Forever+Learning+and+Sharing+Knowledge" alt="Typing SVG" />
 </p>
 
 
