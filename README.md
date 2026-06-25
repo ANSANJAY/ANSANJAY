@@ -1,71 +1,56 @@
-<h1 align="center">Hi I'm ANAMIKA SANJAY</h1>
+
+
+<h1 align="center">Hi  I'm Anamika Sanjay</h1>
 
 <p align="center">
-Building Reliable Platforms • Observability • Runtime Systems • Developer Experience
+Site Reliability Engineer • Platform Engineering • Observability
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Site+Reliability+Engineer;Platform+Engineering+%7C+Observability;Kubernetes+%7C+eBPF+%7C+Developer+Platforms;Building+Reliable+Systems+at+Scale;Always+Learning+Always+Sharing" />
+Building reliable platforms, improving runtime visibility, and enabling better developer experience.
 </p>
 
 ---
 
 ##  About Me
 
-I’m a **Site Reliability Engineer and Platform Engineer** focused on building reliable systems, improving observability, and enabling engineering teams through scalable platform capabilities.
+I’m a **Site Reliability Engineer** focused on building reliable systems, improving observability, and enabling engineering teams through scalable platform capabilities.
 
-My work spans **Kubernetes platforms, runtime visibility, CI/CD automation, observability architecture, and developer tooling**.
+My work spans:
 
-I enjoy solving problems close to infrastructure and system internals while improving how engineers build, deploy, validate, and operate software.
+* Kubernetes & Platform Engineering
+* Runtime Diagnostics & Observability
+* CI/CD Automation & Developer Tooling
+* Reliability Engineering & System Visibility
+* Linux Systems & Performance
 
----
-
-## What I Work On
-
-🔹 Platform Engineering & Internal Developer Platforms
-🔹 Kubernetes Reliability & Environment Automation
-🔹 Observability (Grafana · OpenTelemetry · eBPF · Profiling)
-🔹 CI/CD Systems & GitHub Actions Automation
-🔹 Runtime Diagnostics & Performance Engineering
-🔹 Developer Experience & Engineering Productivity
+I enjoy solving problems close to infrastructure and system internals while improving how software is built, deployed, and operated.
 
 ---
 
-## Recent Areas of Work
+##  Current Focus
 
-### Platform & Reliability
-
-* Designing and operating Kubernetes-based platform workflows
-* Deployment orchestration and environment lifecycle automation
-* Reliability engineering and release readiness
-
-### Observability
-
-* Runtime instrumentation and telemetry collection
-* Distributed tracing and platform visibility
-* eBPF evaluation and low-overhead monitoring approaches
-
-### Engineering Enablement
-
-* Enterprise automation and reporting
-* Developer workflow improvements
-* Code quality and operational insights
+* Platform Engineering & Internal Developer Platforms
+* Observability *(Grafana · OpenTelemetry · eBPF)*
+* Kubernetes Reliability & Environment Automation
+* Runtime Performance & Diagnostics
+* Developer Experience Engineering
 
 ---
 
-##  Technical Stack
+## Tech Stack
 
 **Platform**
-Kubernetes • Docker • Linux • Helm • GitHub Actions
+`Kubernetes` `Docker` `Linux` `Helm` `GitHub Actions`
 
 **Observability**
-Grafana • OpenTelemetry • Prometheus • eBPF
+`Grafana` `OpenTelemetry` `Prometheus` `eBPF`
 
 **Languages**
-Go • Bash • C • Python
+`Go` `Bash` `C` `Python`
 
 **Systems**
-RHEL • AIX • Distributed Systems
+`RHEL` `AIX`
 
 ---
 
@@ -79,9 +64,9 @@ I write about:
 → Platform Engineering
 → Reliability Engineering
 
-Recent posts:
+Recent topics:
 
-* Demystifying Container Profiling with eBPF
+* Container Profiling with eBPF
 * Kernel Panic Deep Dive
 * dump_stack() in Linux
 * KBUILD_MODNAME Explained
@@ -91,14 +76,23 @@ Recent posts:
 
 ##  Connect
 
-📧 Email → [anamika.sanjay16@gmail.com](mailto:anamika.sanjay16@gmail.com)
-💼 LinkedIn → linkedin.com/in/anamika-sanjay
-📝 Blog → anamikadev.com
-📚 Medium → @anamika.sanjay16
-🎥 YouTube → Anamika Sanjay
+**Email**
+[anamika.sanjay16@gmail.com](mailto:anamika.sanjay16@gmail.com)
+
+**LinkedIn**
+linkedin.com/in/anamika-sanjay
+
+**Blog**
+anamikadev.com
+
+**Medium**
+@anamika.sanjay16
+
+**YouTube**
+Anamika Sanjay
 
 ---
 
 <p align="center">
-  <i>Building systems that are observable, reliable, and enjoyable to operate.</i>
+<i>Building systems that are observable, reliable, and enjoyable to operate.</i>
 </p>
