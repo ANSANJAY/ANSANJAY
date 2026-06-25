@@ -4,15 +4,13 @@
 Building Reliable Platforms • Observability • Runtime Systems • Developer Experience
 </p>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Site+Reliability+Engineer;Platform+Engineering+%7C+Observability;Kubernetes+%7C+eBPF+%7C+Developer+Platforms;Building+Reliable+Systems+at+Scale;Always+Learning+Always+Sharing" />
 </p>
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I’m a **Site Reliability Engineer and Platform Engineer** focused on building reliable systems, improving observability, and enabling engineering teams through scalable platform capabilities.
 
@@ -22,7 +20,7 @@ I enjoy solving problems close to infrastructure and system internals while impr
 
 ---
 
-## ⚡ What I Work On
+## What I Work On
 
 🔹 Platform Engineering & Internal Developer Platforms
 🔹 Kubernetes Reliability & Environment Automation
@@ -33,7 +31,7 @@ I enjoy solving problems close to infrastructure and system internals while impr
 
 ---
 
-## 🛠 Recent Areas of Work
+## Recent Areas of Work
 
 ### Platform & Reliability
 
@@ -55,7 +53,7 @@ I enjoy solving problems close to infrastructure and system internals while impr
 
 ---
 
-## 🧠 Technical Stack
+##  Technical Stack
 
 **Platform**
 Kubernetes • Docker • Linux • Helm • GitHub Actions
@@ -71,7 +69,7 @@ RHEL • AIX • Distributed Systems
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+##  Writing & Knowledge Sharing
 
 I write about:
 
@@ -91,7 +89,7 @@ Recent posts:
 
 ---
 
-## 📫 Connect
+##  Connect
 
 📧 Email → [anamika.sanjay16@gmail.com](mailto:anamika.sanjay16@gmail.com)
 💼 LinkedIn → linkedin.com/in/anamika-sanjay
