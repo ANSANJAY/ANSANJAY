@@ -1,8 +1,10 @@
+<h1 align="center">Hi I'm ANAMIKA SANJAY</h1>
+
 <p align="center">
 Building Reliable Platforms • Observability • Runtime Systems • Developer Experience
 </p>
 
-<h1 align="center">Hi 👋 I'm ANAMIKA SANJAY</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F75C7E&center=true&vCenter=true&width=900&lines=Site+Reliability+Engineer;Platform+Engineering+%7C+Observability;Kubernetes+%7C+eBPF+%7C+Developer+Platforms;Building+Reliable+Systems+at+Scale;Always+Learning+Always+Sharing" />
