@@ -1,5 +1,3 @@
-<h1 align="center">Namaste &#128591;</h1>
-
 <p align="center">
 Building Reliable Platforms • Observability • Runtime Systems • Developer Experience
 </p>
